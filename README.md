@@ -5,5 +5,5 @@ relief landscape.
 
 Screens
 -----------------------------------------------------
-![alt text](https://github.com/aniov/C-3D-Landscape/tree/master/screens/fdf-42.png "Screen one")
-![alt text](https://github.com/aniov/C-3D-Landscape/tree/master/screens/fdf-60.png "Screen two")
+![alt text](https://github.com/aniov/C-3D-Landscape/blob/master/screens/fdf-42.png "Screen one")
+![alt text](https://github.com/aniov/C-3D-Landscape/blob/master/screens/fdf-60.png "Screen two")
